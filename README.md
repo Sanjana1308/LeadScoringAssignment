@@ -32,24 +32,6 @@ X Education is an online education company facing challenges in lead conversion.
 - Ensure the logistic regression model is flexible to adapt to future challenges and requirements.
 - Prepare to handle other issues presented by the company based on the logistic regression model.
 
-## Deliverables
-
-1. **Logistic Regression Model for Lead Scoring**
-   - Build a model that provides lead scores.
-   - Use this model to identify high-potential leads for more focused marketing efforts.
-
-2. **Recommendations for Future Problems**
-   - Leverage the logistic regression model to address additional issues presented by the company.
-   - Ensure flexibility and adaptability for future challenges.
-
-3. **Final PowerPoint Presentation (PPT)**
-   - Create a comprehensive presentation summarizing the analysis, model, and recommendations.
-   - Present the findings and solutions to stakeholders.
-
-4. **README Document**
-   - Document the steps taken in the case study.
-   - Explain the preprocessing, model building, and any specific procedures.
-   - Include insights on addressing future problems and maintaining model flexibility.
 
 ## Conclusion
 
